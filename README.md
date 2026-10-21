@@ -1,4 +1,4 @@
-# Drowsiness Detector
+# Driver Drowsiness Detector
 
 A real-time driver drowsiness detector using OpenCV and Google's MediaPipe.
 
