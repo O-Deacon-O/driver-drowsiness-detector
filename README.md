@@ -26,7 +26,7 @@ A real-time driver drowsiness detector using OpenCV and Google's MediaPipe.
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/O-Deacon-O/drowsiness-detector.git
+git clone https://github.com/O-Deacon-O/driver-drowsiness-detector.git
 ```
 2. Create and activate a virtual environment:
  ```bash
